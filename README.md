@@ -14,8 +14,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/last-commit/doenerium69/doenerium-fixed?style=flat">
-<img src="https://img.shields.io/github/stars/doener23/doenerium69/doenerium-fixed?color=brightgreen">
-<img src="https://img.shields.io/github/forks/doener23/doenerium69/doenerium-fixed?color=brightgreen">
+<img src="https://img.shields.io/github/stars/doenerium69/doenerium-fixed?color=brightgreen">
+<img src="https://img.shields.io/github/forks/doenerium69/doenerium-fixed?color=brightgreen">
 </p>
 
 <p align="center">
