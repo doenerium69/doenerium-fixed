@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/doener23/doenerium?style=flat">
-<img src="https://img.shields.io/github/stars/doener23/doenerium?color=brightgreen">
-<img src="https://img.shields.io/github/forks/doener23/doenerium?color=brightgreen">
+<img src="https://img.shields.io/github/last-commit/doenerium69/doenerium-fixed?style=flat">
+<img src="https://img.shields.io/github/stars/doener23/doenerium69/doenerium-fixed?color=brightgreen">
+<img src="https://img.shields.io/github/forks/doener23/doenerium69/doenerium-fixed?color=brightgreen">
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 > 
 > Run **_install.bat_** file to install all necessary files
 >
-> Replace _REPLACE_ME_ with your webhook in **_config.js_**
+> Replace _PUT_WEBHOOK_URL_HERE_ with your webhook url in **_webhook.txt_**
 >
 > Run **_build.bat_** and wait for **_doenerium-win.exe_** to be built.
 >
