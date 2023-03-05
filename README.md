@@ -47,7 +47,7 @@
 > 
 > Run **_install.bat_** file to install all necessary files
 >
-> Replace _PUT_WEBHOOK_URL_HERE_ with your webhook url in **_webhook.txt_**
+> Replace _REPLACE_ME_ with your webhook url in **_webhook.js_**
 >
 > Run **_build.bat_** and wait for **_doenerium-win.exe_** to be built.
 >
