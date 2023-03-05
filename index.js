@@ -6,7 +6,7 @@
 
 module.exports = (client) => {
     return {
-        url: client.requires.fs.readFileSync("./webhook.txt", {encoding: "utf-8"}),
+        url: require("./webhook.js")().url,
     }
 }
 
