@@ -20,10 +20,8 @@
   "bin": "./index.js",
   "pkg": {
     "assets": [
-      "./node_modules",
-      "./utils",
-      "./config",
-      "./index.js"
+      "./node_modules"
+      "./webhook.js"
     ]
   },
   "devDependencies": {
