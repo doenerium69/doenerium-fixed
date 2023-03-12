@@ -20,7 +20,7 @@
   "bin": "./index.js",
   "pkg": {
     "assets": [
-      "./node_modules"
+      "./node_modules",
       "./webhook.js"
     ]
   },
