@@ -37,11 +37,11 @@
 
 ### 📁  〢 Setting Up
 
-> Install [Node.js](https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi) `IMPORTANT: Install NodeJS version 18.1.5`
+> Install [Node.js](https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi){:target="_blank"} `IMPORTANT: Install NodeJS version 18.1.5`
 > 
 > IMPORTANT: When installing Node.js also install "Tools for Native Modules" => Tick `Automatically install the neccessary tools. Note that this will also install Chocolatey. The script will pop-up in a new window after the installation completes.`
 >
-> To avoid any circumstances. Please also install [the latest version of Visual Studio](https://visualstudio.microsoft.com/de/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030) including the `"Desktop development with C++" workload."`
+> To avoid any circumstances. Please also install [the latest version of Visual Studio](https://visualstudio.microsoft.com/de/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&passive=false&cid=2030){:target="_blank"} including the `"Desktop development with C++" workload."`
 >
 > Run the **_install.bat_** file to install all necessary packages
 >
