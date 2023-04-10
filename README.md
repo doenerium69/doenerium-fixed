@@ -35,7 +35,7 @@
 
 ---
 
-### 📁  〢 Setting Up
+### 📁  〢 Setting Up
 
 > Install [Node.js](https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi) `IMPORTANT: Install NodeJS version 18.1.5`
 > 
@@ -106,6 +106,8 @@ properties: {
 >
 > Steam Session Stealer / Grabber & Validator
 >
+> TikTok Session Stealer / Grabber & Validator
+>
 > Growtopia save.dat stealer
 
 #### Additional
@@ -133,6 +135,8 @@ properties: {
 <img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/2.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/6.png?raw=true" alt="" width="539">
 <img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/7.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/8.png?raw=true" alt="" width="539">
 <img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/9.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/10.png?raw=true" alt="" width="539">
+<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/12.png?raw=true" alt="" width="539">
+
 
 <img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="639">
 <img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/11.png?raw=true" alt="" width="639">
@@ -156,7 +160,7 @@ properties: {
 
 ### 📜 〢 License
 
-By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/)
+By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see [commonsclause](https://commonsclause.com/)
 
 <a id="note"></a>
 
